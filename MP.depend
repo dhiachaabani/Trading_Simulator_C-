@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1622494598 source:c:\users\chaab\onedrive\bureau\cpp\cpp.cpp
+	"headers.h"
+	<vector>
+
+1623160346 source:c:\users\chaab\onedrive\bureau\cpp\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<ostream>
+	<istream>
+	<string>
+	<fstream>
+	<ctime>
+	<stdlib.h>
+	<map>
+	"headers.h"
+
+1623168421 c:\users\chaab\onedrive\bureau\cpp\headers.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<ostream>
+	<istream>
+	<string>
+	<fstream>
+	<ctime>
+	<map>
+
+1623168409 source:c:\users\chaab\onedrive\bureau\cpp\mini.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<ostream>
+	<istream>
+	<string>
+	<fstream>
+	<ctime>
+	<map>
+	"headers.h"
+
+1623159053 source:c:\users\chaab\onedrive\bureau\cpp\simulation.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<ostream>
+	<istream>
+	<string>
+	<fstream>
+	<ctime>
+	<map>
+	"headers.h"
+
+1623127405 source:c:\users\chaab\onedrive\bureau\cpp\bourse.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<ostream>
+	<istream>
+	<string>
+	<fstream>
+	<ctime>
+	<map>
+	"headers.h"
+
+1623127377 source:c:\users\chaab\onedrive\bureau\cpp\boursemap.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<ostream>
+	<istream>
+	<string>
+	<fstream>
+	<ctime>
+	<map>
+	"headers.h"
+
+1623119712 source:c:\users\chaab\onedrive\bureau\cpp\portefeuille.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<ostream>
+	<istream>
+	<string>
+	<fstream>
+	<ctime>
+	<map>
+	"headers.h"
+
+1623161479 source:c:\users\chaab\onedrive\bureau\cpp\trader.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<ostream>
+	<istream>
+	<string>
+	<fstream>
+	<ctime>
+	<map>
+	"headers.h"
+

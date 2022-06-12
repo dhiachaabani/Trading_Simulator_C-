@@ -1,0 +1,4 @@
+note::::: classe bourse abstraite --------------> passage par reference ou pointeur 
+voir code erreur dans methodes de simulation 
+::::: portfeuille a un solde
+
